@@ -11,3 +11,7 @@ const numbers = [3, 12, 78, 25];
 const sutudnt = {name: 'Rohan Rafsan', job: 'Chamili Katun '};
 console.log(typeof number);
 console.log(typeof sutudnt)
+
+const asif = {
+    name: asif, age: 25, 
+}
